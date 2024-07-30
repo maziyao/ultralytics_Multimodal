@@ -13,8 +13,8 @@ path: /media/ma/文件/jd/A101498/data/train/
 train: images/train # train images (relative to 'path') 128 images
 val: images/val # val images (relative to 'path') 128 images
 test: # test images (optional)
-train1: images1/train # train images (relative to 'path') 128 images
-val1: images1/val # val images (relative to 'path') 128 images
+train1: images3/train # train images (relative to 'path') 128 images
+val1: images3/val # val images (relative to 'path') 128 images
 test1: # test images (optional)
 
 # Classes
